@@ -3,9 +3,9 @@ export const env = {
     // api1 : "http://localhost:4000/api",
     // redirect : "http://localhost:4000/api/shortUrl"
 
-    api : "https://url-shortener-back-end.vercel.app/auth",
-    api1 : "https://url-shortener-back-end.vercel.app/api",
-    redirect : "https://url-shortener-back-end.vercel.app/api/shortUrl"
+    api : "https://urlshortener-backend-sooty.vercel.app/auth",
+    api1 : "https://urlshortener-backend-sooty.vercel.app/api",
+    redirect : "https://urlshortener-backend-sooty.vercel.app/api/shortUrl"
     
     
 }
